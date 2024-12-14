@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  padding-top: 2.125rem;
+  color: #fff;
+}
+.header__title {
+  font-weight: bold;
+  font-size: 96px;
+}
+.header__subtitble {
+  font-size: 30px;
+}
+.header__image {
+  display: block;
+  margin: auto;
+}
