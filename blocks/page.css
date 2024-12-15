@@ -4,6 +4,7 @@
   background-color: #2a2c2f;
   width: 100%;
   color: #ffffff;
+  min-height: 100vh;
 }
 .page__content {
   margin: auto;

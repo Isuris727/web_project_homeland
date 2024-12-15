@@ -1,3 +1,10 @@
 .intro {
   max-width: 830px;
 }
+.intro__title {
+  font-weight: bold;
+  font-size: 54px;
+}
+.intro__text_size_medium {
+  font-size: 24px;
+}
