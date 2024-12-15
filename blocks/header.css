@@ -5,6 +5,7 @@
 .header__image {
   display: block;
   margin: auto;
+  max-width: 254px;
 }
 @media screen and (max-width: 1023px) {
   .header {
@@ -14,5 +15,9 @@
 @media screen and (max-width: 543px) {
   .header {
     padding-top: 1.25rem;
+  }
+  .header__image {
+    width: 100%;
+    max-width: 188px;
   }
 }
