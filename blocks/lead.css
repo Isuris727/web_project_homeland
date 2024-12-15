@@ -17,5 +17,6 @@
 }
 .lead__image {
   margin: 4rem auto 90px;
+  width: 100%;
   max-width: 984px;
 }
