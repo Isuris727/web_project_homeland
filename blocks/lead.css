@@ -1,13 +1,21 @@
 .lead {
-  display: block;
+  text-align: center;
 }
 
 .lead__title {
+  margin: 90px auto 2rem;
   font-weight: bold;
   font-size: 96px;
+  max-width: 720px;
 }
 
-.lead__subtitble {
+.lead__subtitle {
+  margin: auto;
   font-size: 30px;
   font-weight: 400;
+  max-width: 720px;
+}
+.lead__image {
+  margin: 4rem auto 90px;
+  max-width: 984px;
 }
