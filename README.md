@@ -15,7 +15,9 @@ Fue realizado utilizando:
 - Metodologia BEM
 - Media queries
 
-###Link de la página
-
 ![HTML5-logo](./images/html-5-logo.svg)
 ![CSS3-logo](./images/CSS3_logo_and_wordmark.svg)
+
+### Link de la página desplegada
+
+https://isuris727.github.io/web_project_homeland/
