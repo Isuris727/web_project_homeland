@@ -3,7 +3,7 @@
   font-family: "Inter", sans-serif;
   background-color: #2a2c2f;
   color: #ffffff;
-  min-height: 100vh;
+  min-height: 100%;
 }
 .page__content {
   margin: auto;
