@@ -16,9 +16,5 @@ Fue realizado utilizando:
 
 ###Link de la página
 
-<<<<<<< HEAD
 ![HTML5-logo](./images/html-5-logo.svg)
 ![CSS3-logo](./images/CSS3_logo_and_wordmark.svg)
-=======
-![HTML5-logo](./images/html-5-logo.svg) {width=150px height=150px}
->>>>>>> 0988a528cbacac5e119f44346bbf4212fb142b2a
