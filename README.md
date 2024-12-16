@@ -7,12 +7,13 @@ El proyecto "De Patria a Patria" es el proyecto del sprint 5 en el programa de D
 ### Caracteristicas del proyecto
 
 Fue realizado utilizando:
--HTML 5
--CSS
--Flex
--Diseño responsivo
--Metodologia BEM
--Media queries
+
+- HTML 5
+- CSS
+- Flex
+- Diseño responsivo
+- Metodologia BEM
+- Media queries
 
 ###Link de la página
 
