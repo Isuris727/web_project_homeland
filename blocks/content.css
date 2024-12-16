@@ -1,25 +1,3 @@
 .content {
   width: 100%;
-  max-width: 1280px;
-}
-.content__lead {
-  margin: auto 148px;
-}
-.content__intro {
-  margin: 0 auto 92px 148px;
-}
-
-@media screen and (max-width: 1023px) {
-  .content__lead {
-    margin: auto 0;
-  }
-  .content__intro {
-    margin: 0 24px 88px;
-  }
-}
-
-@media screen and (max-width: 543px) {
-  .content__intro {
-    margin: 0 1rem 64px;
-  }
 }
