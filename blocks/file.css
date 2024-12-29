@@ -1,12 +1,17 @@
 .file {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
 }
 .file__title {
 }
 .file__img {
 }
 .file__buttom {
+  background-color: blue;
 }
 .file__details {
 }
 .file__paragraph {
+  color: green;
 }
