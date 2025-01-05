@@ -3,11 +3,12 @@
 @import url(../blocks/page.css);
 @import url(../blocks/header.css);
 @import url(../blocks/content.css);
-@import url(../blocks/main-content.css);
+@import url(../blocks/lead-intro.css);
 @import url(../blocks/lead.css);
 @import url(../blocks/intro.css);
+@import url(../blocks/places.css);
 @import url(../blocks/photo-grid.css);
-@import url(../blocks/places-files.css);
+@import url(../blocks/files.css);
 @import url(../blocks/file.css);
 @import url(../blocks/website.css);
 @import url(../blocks/footer.css);
