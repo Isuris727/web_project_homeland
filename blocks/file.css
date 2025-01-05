@@ -1,17 +1,27 @@
 .file {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  /* grid-template-rows: repeat(3, 1fr); */
+  grid-template-areas:
+    "title details"
+    "img paragraphs"
+    "buttom paragraphs";
 }
+
 .file__title {
+  grid-area: title;
+  max-width: 460px;
 }
 .file__img {
+  grid-area: img;
 }
 .file__buttom {
+  grid-area: buttom;
   background-color: blue;
 }
 .file__details {
+  grid-area: details;
 }
-.file__paragraph {
-  color: green;
+.file__paragraphs {
+  grid-area: paragraphs;
 }
