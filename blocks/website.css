@@ -1,6 +1,16 @@
 .website {
+  max-width: 456px;
+  align-self: flex-end;
 }
 .website__url-heading {
+  text-transform: uppercase;
+  color: rgba(170, 170, 170, 1);
+
+  font-size: 12px;
+  line-height: 14.52px;
 }
 .website__artist {
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0;
 }

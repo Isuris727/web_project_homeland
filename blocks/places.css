@@ -1,7 +1,9 @@
-.places {
-  /* margenes externos */
-}
+/* .places {
+} */
+
 .places__photo {
+  margin: auto;
 }
 .places__files {
+  margin: 91px 145px;
 }
