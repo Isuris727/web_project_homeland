@@ -38,7 +38,7 @@
 
 .file__buttom {
   grid-area: buttom;
-  width: 489px;
+  width: 289px;
   height: 48px;
   color: rgba(255, 255, 255, 1);
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 100%);
