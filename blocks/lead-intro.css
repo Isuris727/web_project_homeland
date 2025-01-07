@@ -1,5 +1,7 @@
 .lead-intro {
   max-width: 1280px;
+  display: flex;
+  flex-direction: column;
 }
 .lead-intro__lead {
   margin: auto 148px;

@@ -5,7 +5,7 @@
 .website__url-heading {
   text-transform: uppercase;
   color: rgba(170, 170, 170, 1);
-
+  margin-bottom: 8px;
   font-size: 12px;
   line-height: 14.52px;
 }
@@ -13,4 +13,9 @@
   font-size: 18px;
   line-height: 22px;
   margin: 0;
+}
+@media screen and (max-width: 543px) {
+  .website {
+    align-self: center;
+  }
 }

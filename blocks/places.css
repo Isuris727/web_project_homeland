@@ -7,3 +7,14 @@
 .places__files {
   margin: 91px 145px;
 }
+
+@media screen and (max-width: 1023px) {
+  .places__files {
+    margin: 88px auto 90px;
+  }
+}
+@media screen and (max-width: 543px) {
+  .places__files {
+    margin: 62px auto 65px;
+  }
+}

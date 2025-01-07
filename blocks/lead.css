@@ -21,7 +21,9 @@
   margin: 64px auto 92px;
   width: 100%;
   max-width: 984px;
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.5);
 }
+
 @media screen and (max-width: 1023px) {
   .lead__title {
     font-size: 75px;
