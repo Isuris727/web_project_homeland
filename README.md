@@ -1,8 +1,8 @@
-# DE PATRIA A PATRIA (proyecto 5)
+# DE PATRIA A PATRIA (proyecto 6)
 
 ## Tripleten web_project_homeland
 
-El proyecto "De Patria a Patria" es el proyecto del sprint 5 y 6 en el programa de Desarrollo web de TripleTen. Realizado a partir de un diseño ejemplo en Figma y desplegado en Github Pages
+El proyecto "De Patria a Patria" es un proyecto en el sprint 5 y terminado en el sprint 6 del programa de Desarrollo web de TripleTen. Realizado a partir de un diseño ejemplo en Figma y desplegado en Github Pages
 
 ### Caracteristicas del proyecto
 
