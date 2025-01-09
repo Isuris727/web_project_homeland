@@ -33,11 +33,11 @@
   box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.5);
   justify-self: center;
 }
-.file__overlay {
+.file__img_overlay {
   opacity: 1;
   background-color: rgba(0, 0, 0, 0.5);
 }
-.file__overlay:hover {
+.file__img_overlay:hover {
   opacity: 0.5;
   cursor: pointer;
 }
@@ -53,6 +53,15 @@
   font-size: 18px;
   line-height: 21.78px;
   text-decoration: none;
+}
+
+.file__button_overlay:hover {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 120, 254, 0.25) 0%,
+    rgba(0, 58, 123, 0.25) 98.98%
+  );
+  cursor: pointer;
 }
 
 .file__paragraphs {
@@ -89,6 +98,7 @@
     margin: 0 0 0 24px;
   }
 }
+
 @media screen and (max-width: 543px) {
   .file {
     display: flex;
@@ -98,5 +108,13 @@
   }
   .file__paragraphs {
     max-width: 288px;
+  }
+}
+@media screen and (max-width: 364px) {
+  .file__button {
+    width: 100%;
+    max-width: 289px;
+    margin: auto;
+    padding: 15px;
   }
 }
