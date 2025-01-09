@@ -51,16 +51,13 @@
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 98.98%);
   box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.25);
   font-size: 18px;
+  font-weight: 600;
   line-height: 21.78px;
   text-decoration: none;
 }
 
 .file__button_overlay:hover {
-  background: linear-gradient(
-    90deg,
-    rgba(2, 120, 254, 0.25) 0%,
-    rgba(0, 58, 123, 0.25) 98.98%
-  );
+  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
   cursor: pointer;
 }
 
